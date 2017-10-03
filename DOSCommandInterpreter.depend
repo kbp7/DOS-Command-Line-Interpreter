@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507000549 source:c:\users\kbp7\documents\csource\doscommandinterpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
