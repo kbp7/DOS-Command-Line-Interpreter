@@ -1,10 +1,15 @@
 # depslib dependency file v1.0
-1507000549 source:c:\users\kbp7\documents\csource\doscommandinterpreter\main.c
+1507094359 source:c:\users\kbp7\documents\csource\doscommandinterpreter\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 
 1507063672 source:c:\users\kp86251\documents\for upload\dos-command-line-interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507090436 source:c:\users\kbp7\documents\csource\doscommandinterpreter\main2.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
